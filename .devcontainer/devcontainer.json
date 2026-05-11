@@ -1,0 +1,11 @@
+{
+  "name": "Ubuntu 20.04 Workspace",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-20.04",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": []
+    }
+  }
+}
